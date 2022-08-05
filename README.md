@@ -17,5 +17,4 @@ Most of these require slight texture modifications, due to the nature of the cha
 | item_drain | 7 | 4 | Simplify the 4 walls of the cube, and remove the extra element used to create the drain grate, and instead extend the bottom element up |
 | track_signal/block_cross_signal | 7 | 4 | Reduce elements by utilizing inverted elements |
 | track_signal/block_entry_signal | 7 | 4 | Same as above |
-
 | track/ascending_template | 18 | 7 | Extend rail ties across, remove extra "cap" elements for the ends of the ties, extend rail top and bottom element across. These optmizations could easily be applied to every rail, and it would SIGNIFICANTLY impact performance around large rail setups. This is a huge performance loss! |
