@@ -5,8 +5,8 @@ Most of these require slight texture modifications, due to the nature of the cha
 | Model Name | Element Count | Optimized Element Count | Description of Changes | Changes pushed |
 | ---------- | ------------- | ----------------------- | ---------------------- | -------------- |
 | mechanical_drill/block | 5 | 3 | Simplify the main cube | ✔️ |
-| large_cogwheel | 16 | 13 | Simplify the center of the cog | ✔️ |
 | mechanical_drill/head | 10 | 8 | Simplify the protrusions on the side of the drill, and including the shaft as an extension of the drill head | ❌ |
+| large_cogwheel | 16 | 13 | Simplify the center of the cog | ✔️ |
 | white_sail | 9 | 5 | Simplify main body into 2 elements instead of 5, and then reduce the "feet" to 3 elements using some inside out cube wizardry | ❌ |
 | valve_handle | 22 | 20 | Reduce the number of elements in the handle shape by extending and inverting elements | ❌ |
 | stockpile_switch | 7 | 6 | Extend one of the redstone elements though the body of the block | ❌ |
