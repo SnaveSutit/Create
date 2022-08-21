@@ -1,4 +1,5 @@
 Models that need optimizing to improve overall FPS and make the players happy! 😁
+This will improve FPS for everyone, even if they aren't getting sub 60. Less elements is less time spent rendering!
 
 Most of these require slight texture modifications, due to the nature of the changes.
 
