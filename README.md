@@ -3,6 +3,8 @@ This will improve FPS for everyone, even if they aren't getting sub 60. Less ele
 
 Most of these require slight texture modifications, due to the nature of the changes.
 
+I have not finished going though every model in the mod, but I've gone though a decent number of the most impactful ones.
+
 | Model Name | Element Count | Optimized Element Count | Description of Changes | Changes pushed |
 | ---------- | ------------- | ----------------------- | ---------------------- | -------------- |
 | track/ascending_template | 18 | 7 | Extend rail ties across, remove extra "cap" elements for the ends of the ties, extend rail top and bottom element across. These optmizations could easily be applied to every rail, and it would SIGNIFICANTLY impact performance around large rail setups. This is a huge performance loss! | ❌ |
